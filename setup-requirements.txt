@@ -1,0 +1,7 @@
+langchain-anthropic
+langchain-community
+langchain-core
+langgraph
+langchain-openai
+duckduckgo-search
+langchain_experimental
